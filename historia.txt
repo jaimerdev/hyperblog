@@ -1,0 +1,2 @@
+Quiero aprender git, pero, no me sirven la terminal de linux.
+Espero que esta vez funcionen los comandos de Git.
